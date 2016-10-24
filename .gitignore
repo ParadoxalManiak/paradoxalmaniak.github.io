@@ -1,13 +1,2 @@
+grunt/node_modules
 .idea
-*.iml
-out
-gen### Windows template
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-*.cab
-*.msi
-*.msm
-*.msp
-*.lnk
